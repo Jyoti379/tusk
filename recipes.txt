@@ -2,7 +2,11 @@ welcome to kitchen-magic
 soup
 pasta
 chicken fry
-
+Beans
+noodles
 
 thank you :)
+
+Done my changes
 final copy
+
